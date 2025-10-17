@@ -1,5 +1,4 @@
-# Employees Work/Life Balance Dashboard
-**Tool:** Power BI  
+# Employees Work/Life Balance Dashboard 
 **Type:** Academic Data Visualisation Project (2025)
 
 ## Objective
